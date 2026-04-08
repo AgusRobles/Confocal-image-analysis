@@ -17,9 +17,15 @@ Z-stacks of the DAPI channel were segmented using the customized model brain_nuc
 
 <img width="373" height="370" alt="CP_mask" src="https://github.com/user-attachments/assets/a244444d-0667-4e8e-bd06-3620dec22be2" />
 
+**On the left**: an image of the Dentate gyrus DAPI channel. **On the right**: the 3-D mask generated in Cellpose.
 
 ## Quantification in CellProfiler
 
 Fluorescence measurements were extracted using CellProfiler pipelines.  
 The `nuc_total.cppipe` pipeline was used to calculate the nuclear/total fluorescence ratio, while the `speckles.cppipe` pipeline was used to quantify speckle size and count.
+
+The following figure shows the original image and the masked nuclear signal on the top row. In the bottom row is the Cellpose mask (left), the isolated speckles (middle), and the speckles associated to their corresponding nucleus depicted in the same color (right) 
+
+<img width="1007" height="648" alt="Cellprofiler_flow" src="https://github.com/user-attachments/assets/b2b53bf8-cccf-45b2-b70a-b7d05a50eef5" />
+
 
