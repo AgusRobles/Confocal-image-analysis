@@ -12,11 +12,10 @@ For nuclear segmentation in Cellpose, the channels are first separated and the i
 ## Segmentation in Cellpose
 
 Z-stacks of the DAPI channel were segmented using the customized model brain_nuclei to generate binary masks corresponding to individual nuclei.
-<img width="1024" height="1024" alt="C2-1SM-1 DG 40x" src="https://github.com/user-attachments/assets/6103c3aa-8b3d-4f38-839f-70c8a9145de9" />
 
-<img width="479" height="475" alt="1SM_1DG_3Dview" src="https://github.com/user-attachments/assets/788f1aee-6426-46e6-84ef-f6edc50392c7" />
+<img width="370" height="370" alt="DG_DAPI" src="https://github.com/user-attachments/assets/cf5e8c45-6a4e-423b-9f60-3d0ccdb2e4a0" />
 
-
+<img width="373" height="370" alt="CP_mask" src="https://github.com/user-attachments/assets/a244444d-0667-4e8e-bd06-3620dec22be2" />
 
 
 ## Quantification in CellProfiler
