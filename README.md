@@ -17,7 +17,7 @@ Z-stacks of the DAPI channel were segmented using the customized model brain_nuc
 
 <img width="373" height="370" alt="CP_mask" src="https://github.com/user-attachments/assets/a244444d-0667-4e8e-bd06-3620dec22be2" />
 
-**On the left**: an image of the Dentate gyrus DAPI channel. **On the right**: the 3-D mask generated in Cellpose.
+**On the left**: an image of the Dentate gyrus's DAPI channel. **On the right**: the 3D mask generated in Cellpose.
 
 ## Quantification in CellProfiler
 
